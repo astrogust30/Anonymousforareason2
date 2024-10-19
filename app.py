@@ -5,11 +5,13 @@ import time
 import datetime
 import sqlite3
 from collections import Counter
-
+import config
 app = Flask(__name__)
 
+app.config['API_KEY'] = config.API_KEY
+
 # Configuration
-API_KEY = ''  # Replace with your OpenWeatherMap API key
+API_KEY = config.API_KEY  # Replace with your OpenWeatherMap API key
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 UPDATE_INTERVAL = 300  # 5 minutes
 TEMP_UNIT = 'Celsius'  # User preference
