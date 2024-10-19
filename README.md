@@ -57,7 +57,9 @@ It consists of:
 
   ![image](https://github.com/user-attachments/assets/ca127723-a0dc-4153-abed-42b6d9fbb091)
 
-  ![Uploading image.png…]()
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/5741d304-f197-42b1-bf2d-2b789ae284e0">
+
+
 
 
 ## Technologies Used
