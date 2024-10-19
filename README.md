@@ -7,7 +7,7 @@
 
 Welcome to the Real-Time Weather Monitoring System, an application designed to monitor and analyze weather conditions in real-time. This system retrieves data from the OpenWeatherMap API for major metros in India and provides summarized insights, including daily weather summaries, alerting thresholds, and visualizations of historical trends.
 
-**Check out the live website:** [https://anonymousforareason.onrender.com/](https://anonymousforareason2.onrender.com)
+**Check out the live website:** https://anonymousforareason2.onrender.com/
 
 
 ### Warning
