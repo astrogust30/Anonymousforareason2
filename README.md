@@ -49,6 +49,17 @@ It consists of:
 - **Additional Weather Parameters**: Supports extended parameters like humidity and wind speed in the rollups and aggregates.
 - **Weather Forecast Integration**: Incorporates forecast data to provide predictive summaries based on upcoming weather conditions.
 
+  ![image](https://github.com/user-attachments/assets/65d7613a-9dd0-4126-bb11-c05dc5f7e9c1)
+
+  ![image](https://github.com/user-attachments/assets/e4bd26d0-7d8a-4bdf-817c-8554692c995e)
+
+  ![image](https://github.com/user-attachments/assets/60230bfc-13e3-4324-88f2-e8eebb25bb9c)
+
+  ![image](https://github.com/user-attachments/assets/ca127723-a0dc-4153-abed-42b6d9fbb091)
+
+  ![Uploading image.png…]()
+
+
 ## Technologies Used
 
 - **Python 3.8+**: Core programming language for backend development.
