@@ -208,6 +208,8 @@ Follow these steps to build and run the application using Docker.
 
 ### Build the Docker Image
 
+Do not delete weather_data.db file
+
 First, ensure you have Docker installed on your machine. Then, build the Docker image using the following command:
 
  ```bash
@@ -217,6 +219,8 @@ First, ensure you have Docker installed on your machine. Then, build the Docker 
     
  ```
 Access application through : http://localhost:5000
+
+Add your API key in "config.py"
 
 ## Design Choices
 
