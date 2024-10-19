@@ -182,6 +182,8 @@ To run the Weather Monitoring System, ensure the following dependencies are inst
 
 ### **How to Run the Application**
 
+### WAY 1: Build Locally
+
 1. **Install Dependencies**:
     
     ```bash
@@ -206,7 +208,7 @@ To run the Weather Monitoring System, ensure the following dependencies are inst
 
 Follow these steps to build and run the application using Docker.
 
-### Build the Docker Image
+### WAY 2 : Build the Docker Image
 
 Do not delete weather_data.db file
 
