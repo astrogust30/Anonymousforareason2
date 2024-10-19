@@ -56,6 +56,9 @@ It consists of:
   ![image](https://github.com/user-attachments/assets/60230bfc-13e3-4324-88f2-e8eebb25bb9c)
 
   ![image](https://github.com/user-attachments/assets/ca127723-a0dc-4153-abed-42b6d9fbb091)
+  
+  <img width="957" alt="image" src="https://github.com/user-attachments/assets/3825e697-4e6d-4925-9877-4c0606d11738">
+
 
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/5741d304-f197-42b1-bf2d-2b789ae284e0">
 
@@ -197,7 +200,7 @@ To run the Weather Monitoring System, ensure the following dependencies are inst
     
 4. **Access the UI**:
     - Open a web browser and navigate to **`http://localhost:5000`**.
-5. Add your API key in "app.py" Line 12.
+5. Add your API key in "config.py".
 
 ## Design Choices
 
