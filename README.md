@@ -174,15 +174,17 @@ To run the Weather Monitoring System, ensure the following dependencies are inst
     ```
     
 2. **Run the Application**:
+
+   Remove weather_data.db
     
     ```bash
     python app.py
     
     ```
     
-3. **Access the UI**:
+4. **Access the UI**:
     - Open a web browser and navigate to **`http://localhost:5000`**.
-4. Add your API key in "app.py" Line 12.
+5. Add your API key in "app.py" Line 12.
 
 ## Design Choices
 
