@@ -9,7 +9,6 @@ Welcome to the Real-Time Weather Monitoring System, an application designed to m
 
 Check out the live website: [https://anonymousforareason.onrender.com/](https://anonymousforareason2.onrender.com)
 
-### Read about the project in detail at :  https://reinvented-handle-6e0.notion.site/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates-11e04110e05f80bc9cd8fe86aadf91ff?pvs=4
 
 ### Warning
 
