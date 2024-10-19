@@ -202,6 +202,22 @@ To run the Weather Monitoring System, ensure the following dependencies are inst
     - Open a web browser and navigate to **`http://localhost:5000`**.
 5. Add your API key in "config.py".
 
+## Docker Instructions
+
+Follow these steps to build and run the application using Docker.
+
+### Build the Docker Image
+
+First, ensure you have Docker installed on your machine. Then, build the Docker image using the following command:
+
+ ```bash
+   docker login
+   docker build -t your-container-name .
+   docker run -d -p 5000:5000 your-container-name  
+    
+ ```
+Access application through : http://localhost:5000
+
 ## Design Choices
 
 ### Backend Processing
