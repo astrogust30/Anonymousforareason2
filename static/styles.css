@@ -1,0 +1,28 @@
+body {
+    padding-top: 20px;
+}
+
+#daily-summaries, #triggered-alerts {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-subtitle {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+.weather-icon i {
+    font-size: 2rem;
+    color: #112f3b;
+    margin-right: 0.5rem;
+}
