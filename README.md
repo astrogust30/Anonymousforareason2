@@ -273,6 +273,14 @@ weather-monitoring-system/
 - **Description**: Contains JavaScript code for managing user interactions and AJAX requests.
 - **Functionality**:
   - Handles dynamic updates to the dashboard by fetching the latest data without requiring a full page reload.
+    
+Visualization of DB
+
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/2ef14dfb-bdd7-4e07-a8a3-df523273f6fe">
+
+<img width="721" alt="image" src="https://github.com/user-attachments/assets/3446e1c5-1ac5-4095-9865-68fa25c377fb">
+
+
 
 ## License
 
