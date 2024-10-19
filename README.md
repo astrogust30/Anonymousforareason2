@@ -175,7 +175,7 @@ To run the Weather Monitoring System, ensure the following dependencies are inst
     
 2. **Run the Application**:
 
-   Remove weather_data.db
+   Remove weather_data.db file
     
     ```bash
     python app.py
